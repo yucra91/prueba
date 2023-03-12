@@ -56,7 +56,7 @@ Route::get('colegios/{colegio}',[Colegiocontroller::class,'show']);
 Route::put('colegios/{colegio}',[Colegiocontroller::class,'update']);
 Route::delete('colegios/{colegio}',[Colegiocontroller::class,'destroy']);
 
-
+// hola mujndo
 
 
 
